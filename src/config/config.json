@@ -1,0 +1,9 @@
+{
+  "config": {
+    "newsApi": {
+      "apiKey": "dbec17576c95475f8c1236e8f4bafa10",
+      "articlesBaseUrl": "https://newsapi.org/v1/articles",
+      "sourcesBaseUrl": "https://newsapi.org/v1/sources"
+    }
+  }
+}

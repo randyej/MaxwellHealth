@@ -1,0 +1,26 @@
+.ArticleList {
+  flex: 1 1 auto;
+  height: 100%;
+  min-width: 200px;
+  max-width: 200px;
+  overflow: scroll;
+}
+
+.ArticleList .article-navitem {
+  border-bottom: 2px dashed #2b647b;
+}
+
+.ArticleList .article-icon img {
+  max-width: 150px;
+  /*max-height: 25px;*/
+}
+
+.ArticleList .article-title {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.ArticleList .article-author,
+.ArticleList .article-published {
+  font-size: .8em;
+}

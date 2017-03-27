@@ -1,0 +1,34 @@
+/* ==================================
+   start layout debug styles
+   ================================== */
+.App {
+  border: 1px dashed red;
+}
+
+.Header {
+  border: 1px dashed green;
+}
+
+.MainContainer {
+  border: 1px dashed blue;
+}
+
+.SourceList {
+  border: 1px dashed red;
+}
+
+.ArticleList {
+  border: 1px dashed green;
+}
+
+.ArticleDetail {
+  border: 1px dashed red;
+}
+/* ==================================
+   end layout debug styles
+   ================================== */
+
+
+.App {
+  height: 100%;
+}

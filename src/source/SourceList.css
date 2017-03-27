@@ -1,0 +1,23 @@
+.SourceList {
+  flex: 1 1 auto;
+  height: 100%;
+  min-width: 200px;
+  max-width: 200px;
+  overflow: scroll;
+}
+
+.SourceList .source-navitem {
+  border-bottom: 2px dashed #2b647b;
+}
+
+.SourceList .source-icon img {
+  max-width: 150px;
+  max-height: 25px;
+}
+
+.SourceList .source-name {
+}
+
+.SourceList .source-category {
+  font-size: .8em;
+}

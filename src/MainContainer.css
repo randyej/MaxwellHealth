@@ -1,0 +1,6 @@
+.MainContainer {
+  display: flex;
+  height: 100%;
+  margin-top: -70px; /* 70 to match header height */
+  padding-top: 70px; /* 70 to match header height... add to 70 for any additional padding */
+}

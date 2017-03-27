@@ -1,0 +1,17 @@
+.Header {
+  display: flex;
+  /*flex-direction: column;*/
+  align-items: center;
+  height: 70px;
+  padding-left: 15px;
+  background-image: url(/img/maxwell.youtube-cover.jpg);
+  font-size: 14px;
+  color: #4babc7;
+  border-bottom: 5px solid #2b647b;
+}
+
+.Header .logo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
