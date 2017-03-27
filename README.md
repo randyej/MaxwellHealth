@@ -4,16 +4,16 @@ I just moved into a new place and I have an extra monitor. I was thinking I coul
 
 ## Getting started
   1. npm install
-  2. [Ignore me!] ... Open up 2 terminal windows/tabs
-  3. [Ignore me!] ... ```npm run server``` - this spins up the server where you can make the api call
+  2. ```[ * Ignore me! * ]``` ... Open up 2 terminal windows/tabs
+  3. ```[ * Ignore me! * ]``` ... ```npm run server``` - this spins up the server where you can make the api call
   4. ```npm start``` - this starts up the frontend and opens a new tab in the browser
 
-## [Ignore me!] ... Changing the server?
+## [ * Ignore me! *] ... Changing the server?
   ```
   $ npm run test-server
   ```
 
-## [Ignore me!] ... Access the news api
+## [ * Ignore me! * ] ... Access the news api
   ```
   http://localhost:4444/api/news
   ```
